@@ -1,5 +1,4 @@
 body {
-	background-color: #FFFFFF;
 	color: #000000; 
 	font-family: Arial; 
 }
@@ -9,6 +8,7 @@ body {
 	margin: 0 auto;
 }
 header h1 {
+
 	text-align: left;
 	margin-right: 5px 5px 0 0;
 }
